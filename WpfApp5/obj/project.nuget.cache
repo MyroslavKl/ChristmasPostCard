@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljwFNexhjRzDIXoXeXZNyUDwC4dxsQ8NHe0bzAcaEZDcWbdUVI1VZGmgDLcScbUNJqPnSb6jPtiNxvMBz05j1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Myroslav\\Desktop\\універ\\3курс\\ПЗ\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Myroslav\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
